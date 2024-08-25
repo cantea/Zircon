@@ -36,6 +36,7 @@
     <AssemblyOriginatorKeyFile>
     </AssemblyOriginatorKeyFile>
     <Company>$(Authors)</Company>
+    <BaseOutputPath>D:\GitHub\Mir3\Client</BaseOutputPath>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="SlimDX, Version=4.0.13.43, Culture=neutral, PublicKeyToken=b1b0c32fd1ffe4f9, processorArchitecture=x86">

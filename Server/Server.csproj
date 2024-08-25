@@ -8,8 +8,7 @@
     <ImportWindowsDesktopTargets>true</ImportWindowsDesktopTargets>
     <StartupObject>
     </StartupObject>
-    <BaseOutputPath>
-    </BaseOutputPath>
+    <BaseOutputPath>D:\GitHub\Mir3\Server</BaseOutputPath>
     <ProduceReferenceAssembly>True</ProduceReferenceAssembly>
   </PropertyGroup>
   <PropertyGroup>
@@ -43,9 +42,6 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Dapper" Version="2.0.123" />
-    <PackageReference Include="DevExpress.Win" Version="22.2.3" />
-    <PackageReference Include="DevExpress.Win.BonusSkins" Version="22.2.3" />
-    <PackageReference Include="DevExpress.Win.Design" Version="22.2.3" />
     <PackageReference Include="Microsoft.Bcl.AsyncInterfaces" Version="6.0.0" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
     <PackageReference Include="System.Memory" Version="4.5.5" />
